@@ -10,3 +10,7 @@ Objectives:
 - To examine the most used platform according to Age.
 - To find the gender that is more Addicted.
 - To find the highest recorded avg daily used by country
+
+**DataSet:**
+
+Students Social Media Addiction (https://www.kaggle.com/datasets/adilshamim8/social-media-addiction-vs-relationships/data)
