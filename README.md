@@ -1,4 +1,4 @@
-# ravalisuram-EDA---Data-Cleaning---Pandas
+# EDA---Data-Cleaning---Pandas
 **Students Social Media Addiction**
 
 The Student Social Media & Relationships dataset contains anonymized records of students’ social‐media behaviors and related life outcomes. It spans multiple countries and academic levels, focusing on key dimensions such as usage intensity, platform preferences, and relationship dynamics.
